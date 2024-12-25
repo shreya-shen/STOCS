@@ -5,12 +5,7 @@
         "token": null,
         "status": "Pending",
         "placedAt": "2024-12-23T08:02:00Z",
-        "TotalPrice": 1292,
-        "user": {
-            "connect": {
-                "userId": "U003"
-            }
-        }
+        "TotalPrice": 1292
     },
     {
         "orderId": "ORD002",
@@ -18,12 +13,7 @@
         "token": null,
         "status": "Pending",
         "placedAt": "2024-12-24T08:02:00Z",
-        "TotalPrice": 515,
-        "user": {
-            "connect": {
-                "userId": "U002"
-            }
-        }
+        "TotalPrice": 515
     },
     {
         "orderId": "ORD003",
@@ -31,12 +21,7 @@
         "token": null,
         "status": "Completed",
         "placedAt": "2024-12-20T08:02:00Z",
-        "TotalPrice": 990,
-        "user": {
-            "connect": {
-                "userId": "U005"
-            }
-        }
+        "TotalPrice": 990
     },
     {
         "orderId": "ORD004",
@@ -44,12 +29,7 @@
         "token": null,
         "status": "Completed",
         "placedAt": "2024-12-19T08:02:00Z",
-        "TotalPrice": 735,
-        "user": {
-            "connect": {
-                "userId": "U003"
-            }
-        }
+        "TotalPrice": 735
     },
     {
         "orderId": "ORD005",
@@ -57,12 +37,7 @@
         "token": null,
         "status": "Pending",
         "placedAt": "2024-12-21T08:02:00Z",
-        "TotalPrice": 665,
-        "user": {
-            "connect": {
-                "userId": "U002"
-            }
-        }
+        "TotalPrice": 665
     },
     {
         "orderId": "ORD006",
@@ -70,12 +45,7 @@
         "token": null,
         "status": "Pending",
         "placedAt": "2024-12-20T08:02:00Z",
-        "TotalPrice": 414,
-        "user": {
-            "connect": {
-                "userId": "U003"
-            }
-        }
+        "TotalPrice": 414
     },
     {
         "orderId": "ORD007",
@@ -83,12 +53,7 @@
         "token": null,
         "status": "Completed",
         "placedAt": "2024-12-22T08:02:00Z",
-        "TotalPrice": 1180,
-        "user": {
-            "connect": {
-                "userId": "U003"
-            }
-        }
+        "TotalPrice": 1180
     },
     {
         "orderId": "ORD008",
@@ -96,12 +61,7 @@
         "token": null,
         "status": "Completed",
         "placedAt": "2024-12-22T08:02:00Z",
-        "TotalPrice": 720,
-        "user": {
-            "connect": {
-                "userId": "U003"
-            }
-        }
+        "TotalPrice": 720
     },
     {
         "orderId": "ORD009",
@@ -109,12 +69,7 @@
         "token": null,
         "status": "Pending",
         "placedAt": "2024-12-20T08:02:00Z",
-        "TotalPrice": 872,
-        "user": {
-            "connect": {
-                "userId": "U002"
-            }
-        }
+        "TotalPrice": 872
     },
     {
         "orderId": "ORD010",
@@ -122,11 +77,6 @@
         "token": null,
         "status": "Pending",
         "placedAt": "2024-12-20T08:02:00Z",
-        "TotalPrice": 461,
-        "user": {
-            "connect": {
-                "userId": "U004"
-            }
-        }
+        "TotalPrice": 461
     }
 ]
