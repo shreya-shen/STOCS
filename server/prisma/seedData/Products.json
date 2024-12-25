@@ -1,0 +1,92 @@
+[
+  {
+      "productId": "P001",
+      "name": "Meow Pen Black Ink",
+      "stockQuantity": 250,
+      "price": 10
+  },
+  {
+      "productId": "P002",
+      "name": "Notebook Ruled 100 pages",
+      "stockQuantity": 100,
+      "price": 35
+  },
+  {
+      "productId": "P003",
+      "name": "Notebook Unruled 100 pages",
+      "stockQuantity": 75,
+      "price": 30
+  },
+  {
+      "productId": "P004",
+      "name": "Fevicol Adhesive",
+      "stockQuantity": 50,
+      "price": 15
+  },
+  {
+      "productId": "P005",
+      "name": "Rough Notebook Ruled",
+      "stockQuantity": 28,
+      "price": 10
+  },
+  {
+      "productId": "P006",
+      "name": "Rough Notebook Unruled",
+      "stockQuantity": 21,
+      "price": 10
+  },
+  {
+      "productId": "P007",
+      "name": "Sahyadri Lab Record",
+      "stockQuantity": 15,
+      "price": 85
+  },
+  {
+      "productId": "P008",
+      "name": "CIE Evaluation books",
+      "stockQuantity": 9,
+      "price": 20
+  },
+  {
+      "productId": "P009",
+      "name": "Assignment Book (Yellow Book)",
+      "stockQuantity": 43,
+      "price": 20
+  },
+  {
+      "productId": "P010",
+      "name": "Clear Tape",
+      "stockQuantity": 23,
+      "price": 15
+  },
+  {
+      "productId": "P011",
+      "name": "Meow Pen Blue Ink",
+      "stockQuantity": 128,
+      "price": 10
+  },
+  {
+      "productId": "P012",
+      "name": "Scissors",
+      "stockQuantity": 28,
+      "price": 45
+  },
+  {
+      "productId": "P013",
+      "name": "A4-Sheet",
+      "stockQuantity": 150,
+      "price": 2
+  },
+  {
+      "productId": "P014",
+      "name": "Notebook Ruled 200 pages",
+      "stockQuantity": 73,
+      "price": 55
+  },
+  {
+      "productId": "P015",
+      "name": "Notebook Unruled 200 pages",
+      "stockQuantity": 38,
+      "price": 55
+  }
+]

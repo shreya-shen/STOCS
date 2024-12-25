@@ -1,0 +1,464 @@
+[
+  {
+      "salesSummaryId": "SS001",
+      "totalValue": 4835.0,
+      "changePercentage": -77.24,
+      "date": "2024-10-13T00:00:00Z"
+  },
+  {
+      "salesSummaryId": "SS002",
+      "totalValue": 9110.0,
+      "changePercentage": 79.17,
+      "date": "2024-11-05T00:00:00Z"
+  },
+  {
+      "salesSummaryId": "SS003",
+      "totalValue": 8530.0,
+      "changePercentage": -82.99,
+      "date": "2024-12-25T00:00:00Z"
+  },
+  {
+      "salesSummaryId": "SS004",
+      "totalValue": 8782.0,
+      "changePercentage": 71.63,
+      "date": "2024-08-11T00:00:00Z"
+  },
+  {
+      "salesSummaryId": "SS005",
+      "totalValue": 10249.0,
+      "changePercentage": 51.93,
+      "date": "2024-09-07T00:00:00Z"
+  },
+  {
+      "salesSummaryId": "SS006",
+      "totalValue": 8064.0,
+      "changePercentage": -88.63,
+      "date": "2024-07-08T00:00:00Z"
+  },
+  {
+      "salesSummaryId": "SS007",
+      "totalValue": 210.0,
+      "changePercentage": 82.48,
+      "date": "2024-06-17T00:00:00Z"
+  },
+  {
+      "salesSummaryId": "SS008",
+      "totalValue": 18971.63,
+      "changePercentage": 23.77,
+      "date": "2024-10-30T00:00:00Z"
+  },
+  {
+      "salesSummaryId": "SS009",
+      "totalValue": 13425.03,
+      "changePercentage": -51.48,
+      "date": "2024-08-13T00:00:00Z"
+  },
+  {
+      "salesSummaryId": "SS010",
+      "totalValue": 12995.48,
+      "changePercentage": 34.29,
+      "date": "2024-11-09T00:00:00Z"
+  },
+  {
+      "salesSummaryId": "SS011",
+      "totalValue": 14812.11,
+      "changePercentage": 3.31,
+      "date": "2024-08-24T00:00:00Z"
+  },
+  {
+      "salesSummaryId": "SS012",
+      "totalValue": 16434.9,
+      "changePercentage": -77.26,
+      "date": "2024-12-13T00:00:00Z"
+  },
+  {
+      "salesSummaryId": "SS013",
+      "totalValue": 3204.67,
+      "changePercentage": 7.51,
+      "date": "2024-12-24T00:00:00Z"
+  },
+  {
+      "salesSummaryId": "SS014",
+      "totalValue": 18853.18,
+      "changePercentage": 63.15,
+      "date": "2024-11-13T00:00:00Z"
+  },
+  {
+      "salesSummaryId": "SS015",
+      "totalValue": 17356.18,
+      "changePercentage": 61.47,
+      "date": "2024-12-19T00:00:00Z"
+  },
+  {
+      "salesSummaryId": "SS016",
+      "totalValue": 11899.81,
+      "changePercentage": -54.14,
+      "date": "2024-09-07T00:00:00Z"
+  },
+  {
+      "salesSummaryId": "SS017",
+      "totalValue": 8887.67,
+      "changePercentage": 84.2,
+      "date": "2024-08-20T00:00:00Z"
+  },
+  {
+      "salesSummaryId": "SS018",
+      "totalValue": 19885.95,
+      "changePercentage": 48.08,
+      "date": "2024-07-10T00:00:00Z"
+  },
+  {
+      "salesSummaryId": "SS019",
+      "totalValue": 16113.69,
+      "changePercentage": 82.71,
+      "date": "2024-09-01T00:00:00Z"
+  },
+  {
+      "salesSummaryId": "SS020",
+      "totalValue": 18520.15,
+      "changePercentage": 40.98,
+      "date": "2024-07-21T00:00:00Z"
+  },
+  {
+      "salesSummaryId": "SS021",
+      "totalValue": 2884.61,
+      "changePercentage": 8.76,
+      "date": "2024-09-11T00:00:00Z"
+  },
+  {
+      "salesSummaryId": "SS022",
+      "totalValue": 5045.9,
+      "changePercentage": -23.75,
+      "date": "2024-10-23T00:00:00Z"
+  },
+  {
+      "salesSummaryId": "SS023",
+      "totalValue": 9959.33,
+      "changePercentage": -22.96,
+      "date": "2024-08-11T00:00:00Z"
+  },
+  {
+      "salesSummaryId": "SS024",
+      "totalValue": 17321.87,
+      "changePercentage": -34.03,
+      "date": "2024-08-08T00:00:00Z"
+  },
+  {
+      "salesSummaryId": "SS025",
+      "totalValue": 13720.03,
+      "changePercentage": -85.54,
+      "date": "2024-08-21T00:00:00Z"
+  },
+  {
+      "salesSummaryId": "SS026",
+      "totalValue": 19164.96,
+      "changePercentage": -72.1,
+      "date": "2024-12-16T00:00:00Z"
+  },
+  {
+      "salesSummaryId": "SS027",
+      "totalValue": 17538.41,
+      "changePercentage": -95.02,
+      "date": "2024-11-01T00:00:00Z"
+  },
+  {
+      "salesSummaryId": "SS028",
+      "totalValue": 8263.12,
+      "changePercentage": 40.46,
+      "date": "2024-08-03T00:00:00Z"
+  },
+  {
+      "salesSummaryId": "SS029",
+      "totalValue": 15371.89,
+      "changePercentage": 97.12,
+      "date": "2024-09-19T00:00:00Z"
+  },
+  {
+      "salesSummaryId": "SS030",
+      "totalValue": 6651.36,
+      "changePercentage": -61.8,
+      "date": "2024-11-06T00:00:00Z"
+  },
+  {
+      "salesSummaryId": "SS031",
+      "totalValue": 17284.52,
+      "changePercentage": -0.19,
+      "date": "2024-08-20T00:00:00Z"
+  },
+  {
+      "salesSummaryId": "SS032",
+      "totalValue": 16097.29,
+      "changePercentage": -20.83,
+      "date": "2024-08-21T00:00:00Z"
+  },
+  {
+      "salesSummaryId": "SS033",
+      "totalValue": 1852.74,
+      "changePercentage": 87.47,
+      "date": "2024-10-30T00:00:00Z"
+  },
+  {
+      "salesSummaryId": "SS034",
+      "totalValue": 2542.58,
+      "changePercentage": 72.44,
+      "date": "2024-11-15T00:00:00Z"
+  },
+  {
+      "salesSummaryId": "SS035",
+      "totalValue": 9841.36,
+      "changePercentage": 53.01,
+      "date": "2024-07-08T00:00:00Z"
+  },
+  {
+      "salesSummaryId": "SS036",
+      "totalValue": 5882.6,
+      "changePercentage": -74.05,
+      "date": "2024-08-30T00:00:00Z"
+  },
+  {
+      "salesSummaryId": "SS037",
+      "totalValue": 3507.12,
+      "changePercentage": -23.49,
+      "date": "2024-07-03T00:00:00Z"
+  },
+  {
+      "salesSummaryId": "SS038",
+      "totalValue": 8681.0,
+      "changePercentage": -53.23,
+      "date": "2024-07-24T00:00:00Z"
+  },
+  {
+      "salesSummaryId": "SS039",
+      "totalValue": 13156.22,
+      "changePercentage": -51.15,
+      "date": "2024-07-12T00:00:00Z"
+  },
+  {
+      "salesSummaryId": "SS040",
+      "totalValue": 13737.98,
+      "changePercentage": 41.7,
+      "date": "2024-07-20T00:00:00Z"
+  },
+  {
+      "salesSummaryId": "SS041",
+      "totalValue": 7289.73,
+      "changePercentage": 43.06,
+      "date": "2024-09-06T00:00:00Z"
+  },
+  {
+      "salesSummaryId": "SS042",
+      "totalValue": 7286.67,
+      "changePercentage": 76.33,
+      "date": "2024-11-04T00:00:00Z"
+  },
+  {
+      "salesSummaryId": "SS043",
+      "totalValue": 17885.98,
+      "changePercentage": 23.0,
+      "date": "2024-09-28T00:00:00Z"
+  },
+  {
+      "salesSummaryId": "SS044",
+      "totalValue": 6196.11,
+      "changePercentage": -40.69,
+      "date": "2024-11-05T00:00:00Z"
+  },
+  {
+      "salesSummaryId": "SS045",
+      "totalValue": 2509.34,
+      "changePercentage": -1.02,
+      "date": "2024-12-02T00:00:00Z"
+  },
+  {
+      "salesSummaryId": "SS046",
+      "totalValue": 17864.91,
+      "changePercentage": -83.17,
+      "date": "2024-11-17T00:00:00Z"
+  },
+  {
+      "salesSummaryId": "SS047",
+      "totalValue": 16561.39,
+      "changePercentage": 41.62,
+      "date": "2024-07-19T00:00:00Z"
+  },
+  {
+      "salesSummaryId": "SS048",
+      "totalValue": 19448.4,
+      "changePercentage": 12.85,
+      "date": "2024-07-05T00:00:00Z"
+  },
+  {
+      "salesSummaryId": "SS049",
+      "totalValue": 9846.1,
+      "changePercentage": 24.57,
+      "date": "2024-10-05T00:00:00Z"
+  },
+  {
+      "salesSummaryId": "SS050",
+      "totalValue": 18690.06,
+      "changePercentage": 28.01,
+      "date": "2024-12-27T00:00:00Z"
+  },
+  {
+      "salesSummaryId": "SS051",
+      "totalValue": 1623.14,
+      "changePercentage": -54.53,
+      "date": "2024-11-14T00:00:00Z"
+  },
+  {
+      "salesSummaryId": "SS052",
+      "totalValue": 7916.17,
+      "changePercentage": 14.45,
+      "date": "2024-09-27T00:00:00Z"
+  },
+  {
+      "salesSummaryId": "SS053",
+      "totalValue": 13750.39,
+      "changePercentage": 42.17,
+      "date": "2024-09-16T00:00:00Z"
+  },
+  {
+      "salesSummaryId": "SS054",
+      "totalValue": 9342.55,
+      "changePercentage": -24.73,
+      "date": "2024-12-03T00:00:00Z"
+  },
+  {
+      "salesSummaryId": "SS055",
+      "totalValue": 13757.28,
+      "changePercentage": -2.29,
+      "date": "2024-11-08T00:00:00Z"
+  },
+  {
+      "salesSummaryId": "SS056",
+      "totalValue": 9319.66,
+      "changePercentage": -74.54,
+      "date": "2024-09-21T00:00:00Z"
+  },
+  {
+      "salesSummaryId": "SS057",
+      "totalValue": 6081.48,
+      "changePercentage": -48.22,
+      "date": "2024-07-23T00:00:00Z"
+  },
+  {
+      "salesSummaryId": "SS058",
+      "totalValue": 12509.02,
+      "changePercentage": -18.23,
+      "date": "2024-11-19T00:00:00Z"
+  },
+  {
+      "salesSummaryId": "SS059",
+      "totalValue": 11031.5,
+      "changePercentage": -19.77,
+      "date": "2024-07-28T00:00:00Z"
+  },
+  {
+      "salesSummaryId": "SS060",
+      "totalValue": 17233.54,
+      "changePercentage": -21.41,
+      "date": "2024-10-21T00:00:00Z"
+  },
+  {
+      "salesSummaryId": "SS061",
+      "totalValue": 7029.99,
+      "changePercentage": -17.25,
+      "date": "2024-08-30T00:00:00Z"
+  },
+  {
+      "salesSummaryId": "SS062",
+      "totalValue": 3117.52,
+      "changePercentage": 50.38,
+      "date": "2024-08-26T00:00:00Z"
+  },
+  {
+      "salesSummaryId": "SS063",
+      "totalValue": 12839.42,
+      "changePercentage": 30.69,
+      "date": "2024-10-09T00:00:00Z"
+  },
+  {
+      "salesSummaryId": "SS064",
+      "totalValue": 10444.86,
+      "changePercentage": 37.18,
+      "date": "2024-10-03T00:00:00Z"
+  },
+  {
+      "salesSummaryId": "SS065",
+      "totalValue": 8360.5,
+      "changePercentage": 28.85,
+      "date": "2024-10-31T00:00:00Z"
+  },
+  {
+      "salesSummaryId": "SS066",
+      "totalValue": 11136.66,
+      "changePercentage": -8.4,
+      "date": "2024-11-16T00:00:00Z"
+  },
+  {
+      "salesSummaryId": "SS067",
+      "totalValue": 2104.52,
+      "changePercentage": 82.52,
+      "date": "2024-11-21T00:00:00Z"
+  },
+  {
+      "salesSummaryId": "SS068",
+      "totalValue": 10634.61,
+      "changePercentage": -28.09,
+      "date": "2024-11-10T00:00:00Z"
+  },
+  {
+      "salesSummaryId": "SS069",
+      "totalValue": 15340.92,
+      "changePercentage": 54.13,
+      "date": "2024-10-17T00:00:00Z"
+  },
+  {
+      "salesSummaryId": "SS070",
+      "totalValue": 17668.24,
+      "changePercentage": 53.76,
+      "date": "2024-09-07T00:00:00Z"
+  },
+  {
+      "salesSummaryId": "SS071",
+      "totalValue": 1384.83,
+      "changePercentage": 26.46,
+      "date": "2024-07-28T00:00:00Z"
+  },
+  {
+      "salesSummaryId": "SS072",
+      "totalValue": 12394.16,
+      "changePercentage": -37.27,
+      "date": "2024-09-03T00:00:00Z"
+  },
+  {
+      "salesSummaryId": "SS073",
+      "totalValue": 19277.61,
+      "changePercentage": -20.66,
+      "date": "2024-07-14T00:00:00Z"
+  },
+  {
+      "salesSummaryId": "SS074",
+      "totalValue": 4912.34,
+      "changePercentage": 28.5,
+      "date": "2024-10-11T00:00:00Z"
+  },
+  {
+      "salesSummaryId": "SS075",
+      "totalValue": 8895.28,
+      "changePercentage": 66.09,
+      "date": "2024-11-23T00:00:00Z"
+  },
+  {
+      "salesSummaryId": "SS076",
+      "totalValue": 6904.18,
+      "changePercentage": -35.62,
+      "date": "2024-10-26T00:00:00Z"
+  },
+  {
+      "salesSummaryId": "SS077",
+      "totalValue": 11881.16,
+      "changePercentage": 0.68,
+      "date": "2024-06-01T00:00:00Z"
+  }
+]

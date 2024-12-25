@@ -1,0 +1,37 @@
+[
+  {
+    "userId": "U001",
+    "name": "Carly",
+    "email": "carly.cs22@sahyadri.edu.in",
+    "password": "isdnei@918",
+    "USN": "4SF22CS192"
+  },
+  {
+    "userId": "U002",
+    "name": "Sneha",
+    "email": "sneha.cs22@sahyadri.edu.in",
+    "password": "siduhckdj@912",
+    "USN": "4SF22CS163"
+  },
+  {
+    "userId": "U003",
+    "name": "Rohan",
+    "email": "Rohan.is23@sahyadri.edu.in",
+    "password": "kjhxkcuhd",
+    "USN": "4SF23IS017"
+  },
+  {
+    "userId": "U004",
+    "name": "Amelia",
+    "email": "amelia.ra21@sahyadri.edu.in",
+    "password": "iwudhn228",
+    "USN": "4SF21RA010"
+  },
+  {
+    "userId": "U005",
+    "name": "Nishmith",
+    "email": "nishmith.ds22@sahyadri.edu.in",
+    "password": "cjwhdvcj61532",
+    "USN": "4SF22DS127"
+  }
+]
