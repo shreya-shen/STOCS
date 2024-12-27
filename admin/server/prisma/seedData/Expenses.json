@@ -1,0 +1,80 @@
+[
+  {
+    "expenseId": "E001",
+    "category": "Salaries",
+    "amount": 10000,
+    "timestamp": "2022-08-27T18:35:57Z"
+  },
+  {
+    "expenseId": "E002",
+    "category": "Procurements",
+    "amount": 35000,
+    "timestamp": "2020-05-12T19:39:50Z"
+  },
+  {
+    "expenseId": "E003",
+    "category": "Miscallaneous",
+    "amount": 1000,
+    "timestamp": "2021-06-08T13:48:10Z"
+  },
+  {
+    "expenseId": "E004",
+    "category": "Salaries",
+    "amount": 2000,
+    "timestamp": "2022-10-03T22:21:20Z"
+  },
+  {
+    "expenseId": "E005",
+    "category": "Miscallaneous",
+    "amount": 1939,
+    "timestamp": "2020-03-18T00:41:00Z"
+  },
+  {
+    "expenseId": "E006",
+    "category": "Procurements",
+    "amount": 5000,
+    "timestamp": "2020-05-04T20:18:41Z"
+  },
+  {
+    "expenseId": "E007",
+    "category": "Procurements",
+    "amount": 15000,
+    "timestamp": "2021-11-04T02:56:56Z"
+  },
+  {
+    "expenseId": "E008",
+    "category": "Salaries",
+    "amount": 8000,
+    "timestamp": "2020-09-04T19:49:29Z"
+  },
+  {
+    "expenseId": "E009",
+    "category": "Miscallaneous",
+    "amount": 2500,
+    "timestamp": "2020-07-22T02:35:40Z"
+  },
+  {
+    "expenseId": "E010",
+    "category": "Salaries",
+    "amount": 25000,
+    "timestamp": "2021-01-18T01:06:07Z"
+  },
+  {
+    "expenseId": "E011",
+    "category": "Miscallaneous",
+    "amount": 150,
+    "timestamp": "2022-07-12T16:33:04Z"
+  },
+  {
+    "expenseId": "E012",
+    "category": "Procurements",
+    "amount": 15000,
+    "timestamp": "2021-09-09T05:45:26Z"
+  },
+  {
+    "expenseId": "E013",
+    "category": "Procurements",
+    "amount": 18000,
+    "timestamp": "2021-12-24T09:18:27Z"
+  }
+]

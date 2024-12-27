@@ -1,0 +1,62 @@
+[
+  {
+    "expenseSummaryId": "ES001",
+    "totalExpenses": 1939.00,
+    "date": "2020-03-18T23:59:59Z"
+  },
+  {
+    "expenseSummaryId": "ES002",
+    "totalExpenses": 40000.00,
+    "date": "2020-05-12T23:59:59Z"
+  },
+  {
+    "expenseSummaryId": "ES003",
+    "totalExpenses": 2500.00,
+    "date": "2020-07-22T23:59:59Z"
+  },
+  {
+    "expenseSummaryId": "ES004",
+    "totalExpenses": 8000.00,
+    "date": "2020-09-04T23:59:59Z"
+  },
+  {
+    "expenseSummaryId": "ES005",
+    "totalExpenses": 25000.00,
+    "date": "2021-01-18T23:59:59Z"
+  },
+  {
+    "expenseSummaryId": "ES006",
+    "totalExpenses": 1000.00,
+    "date": "2021-06-08T23:59:59Z"
+  },
+  {
+    "expenseSummaryId": "ES007",
+    "totalExpenses": 15000.00,
+    "date": "2021-09-09T23:59:59Z"
+  },
+  {
+    "expenseSummaryId": "ES008",
+    "totalExpenses": 15000.00,
+    "date": "2021-11-04T23:59:59Z"
+  },
+  {
+    "expenseSummaryId": "ES009",
+    "totalExpenses": 18000.00,
+    "date": "2021-12-24T23:59:59Z"
+  },
+  {
+    "expenseSummaryId": "ES010",
+    "totalExpenses": 150.00,
+    "date": "2022-07-12T23:59:59Z"
+  },
+  {
+    "expenseSummaryId": "ES011",
+    "totalExpenses": 10000.00,
+    "date": "2022-08-27T23:59:59Z"
+  },
+  {
+    "expenseSummaryId": "ES012",
+    "totalExpenses": 2000.00,
+    "date": "2022-10-03T23:59:59Z"
+  }
+]

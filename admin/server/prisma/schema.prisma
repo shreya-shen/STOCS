@@ -1,0 +1,120 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model Users {
+  userId String @id
+  name   String
+  email  String
+  password String
+  USN String
+  orders Orders[]
+}
+
+model Products {
+  productId     String      @id
+  name          String
+  stockQuantity Int
+  price Float
+  Purchases     Purchases[]
+  Sales         Sales[]
+  OrderDetails OrderDetails[]
+}
+
+model Sales {
+  saleId      String   @id
+  productId   String
+  timestamp   DateTime
+  quantity    Int
+  unitPrice   Float
+  totalAmount Float
+  product     Products @relation(fields: [productId], references: [productId], onDelete: Cascade)
+}
+
+model Purchases {
+  purchaseId String   @id
+  productId  String
+  timestamp  DateTime
+  quantity   Int
+  unitCost   Float
+  totalCost  Float
+  product    Products @relation(fields: [productId], references: [productId], onDelete: Cascade)
+}
+
+model Expenses {
+  expenseId String   @id
+  category  String
+  amount    Float
+  timestamp DateTime
+}
+
+model SalesSummary {
+  salesSummaryId   String   @id
+  totalValue       Float
+  changePercentage Float?
+  date             DateTime
+}
+
+model PurchaseSummary {
+  purchaseSummaryId String   @id
+  totalPurchased    Float
+  changePercentage  Float?
+  date              DateTime
+}
+
+model ExpenseSummary {
+  expenseSummaryId  String              @id
+  totalExpenses     Float
+  date              DateTime
+  ExpenseByCategory ExpenseByCategory[]
+}
+
+model ExpenseByCategory {
+  expenseByCategoryId String         @id
+  expenseSummaryId    String
+  category            String
+  amount              BigInt
+  date                DateTime
+  expenseSummary      ExpenseSummary @relation(fields: [expenseSummaryId], references: [expenseSummaryId], onDelete: Cascade)
+}
+
+enum Status {
+  Pending
+  Completed
+}
+
+model Orders {
+  orderId String @id
+  userId String 
+  token String?
+  status Status
+  placedAt DateTime
+  TotalPrice Int 
+  user Users @relation(fields: [userId],references: [userId], onDelete: Cascade)
+  OrderDetails OrderDetails[]
+  
+}
+
+model OrderDetails{
+  orderId String
+  productId String
+  qty Int
+  price Int
+  @@id([orderId,productId])
+  orders Orders @relation(fields: [orderId], references: [orderId], onDelete: Cascade)
+  products Products @relation(fields: [productId], references: [productId], onDelete: Cascade)
+}
+
+enum openStatus{
+  Open
+  Closed
+}
+
+model ShopStatus{
+  isOpen openStatus @id
+}

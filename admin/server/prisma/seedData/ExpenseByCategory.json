@@ -1,0 +1,93 @@
+[
+  {
+    "expenseByCategoryId": "EBC001",
+    "expenseSummaryId": "ES011",
+    "date": "2022-08-27T18:35:57Z",
+    "category": "Salaries",
+    "amount": 10000
+  },
+  {
+    "expenseByCategoryId": "EBC002",
+    "expenseSummaryId": "ES002",
+    "date": "2020-05-12T19:39:50Z",
+    "category": "Procurements",
+    "amount": 35000
+  },
+  {
+    "expenseByCategoryId": "EBC003",
+    "expenseSummaryId": "ES006",
+    "date": "2021-06-08T13:48:10Z",
+    "category": "Miscallaneous",
+    "amount": 1000
+  },
+  {
+    "expenseByCategoryId": "EBC004",
+    "expenseSummaryId": "ES012",
+    "date": "2022-10-03T22:21:20Z",
+    "category": "Salaries",
+    "amount": 2000
+  },
+  {
+    "expenseByCategoryId": "EBC005",
+    "expenseSummaryId": "ES001",
+    "date": "2020-03-18T00:41:00Z",
+    "category": "Miscallaneous",
+    "amount": 1939
+  },
+  {
+    "expenseByCategoryId": "EBC006",
+    "expenseSummaryId": "ES002",
+    "date": "2020-05-04T20:18:41Z",
+    "category": "Procurements",
+    "amount": 5000
+  },
+  {
+    "expenseByCategoryId": "EBC007",
+    "expenseSummaryId": "ES008",
+    "date": "2021-11-04T02:56:56Z",
+    "category": "Procurements",
+    "amount": 15000
+  },
+  {
+    "expenseByCategoryId": "EBC008",
+    "expenseSummaryId": "ES004",
+    "date": "2020-09-04T19:49:29Z",
+    "category": "Salaries",
+    "amount": 8000
+  },
+  {
+    "expenseByCategoryId": "EBC009",
+    "expenseSummaryId": "ES003",
+    "date": "2020-07-22T02:35:40Z",
+    "category": "Miscallaneous",
+    "amount": 2500
+  },
+  {
+    "expenseByCategoryId": "EBC010",
+    "expenseSummaryId": "ES005",
+    "date": "2021-01-18T01:06:07Z",
+    "category": "Salaries",
+    "amount": 25000
+  },
+  {
+    "expenseByCategoryId": "EBC011",
+    "expenseSummaryId": "ES010",
+    "date": "2022-07-12T16:33:04Z",
+    "category": "Miscallaneous",
+    "amount": 150
+  },
+  {
+    "expenseByCategoryId": "EBC012",
+    "expenseSummaryId": "ES007",
+    "date": "2021-09-09T05:45:26Z",
+    "category": "Procurements",
+    "amount": 15000
+  },
+  {
+    "expenseByCategoryId": "EBC013",
+    "expenseSummaryId": "ES009",
+    "date": "2021-12-24T09:18:27Z",
+    "category": "Procurements",
+    "amount": 18000
+  }
+]

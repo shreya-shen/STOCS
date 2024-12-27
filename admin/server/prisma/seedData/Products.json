@@ -1,0 +1,92 @@
+[
+  {
+      "productId": "P001",
+      "name": "Meow Pen Black",
+      "stockQuantity": 250,
+      "price": 10
+  },
+  {
+      "productId": "P002",
+      "name": "100 Page Ruled Notebook",
+      "stockQuantity": 100,
+      "price": 35
+  },
+  {
+      "productId": "P003",
+      "name": "100 Page Unruled Notebook",
+      "stockQuantity": 75,
+      "price": 30
+  },
+  {
+      "productId": "P004",
+      "name": "Glue",
+      "stockQuantity": 50,
+      "price": 15
+  },
+  {
+      "productId": "P005",
+      "name": "Rough Notebook Ruled",
+      "stockQuantity": 28,
+      "price": 10
+  },
+  {
+      "productId": "P006",
+      "name": "Rough Notebook Unruled",
+      "stockQuantity": 21,
+      "price": 10
+  },
+  {
+      "productId": "P007",
+      "name": "Record Book",
+      "stockQuantity": 15,
+      "price": 85
+  },
+  {
+      "productId": "P008",
+      "name": "Blue Book",
+      "stockQuantity": 9,
+      "price": 20
+  },
+  {
+      "productId": "P009",
+      "name": "Yellow Book",
+      "stockQuantity": 43,
+      "price": 20
+  },
+  {
+      "productId": "P010",
+      "name": "Tape",
+      "stockQuantity": 23,
+      "price": 15
+  },
+  {
+      "productId": "P011",
+      "name": "Meow Pen Blue",
+      "stockQuantity": 128,
+      "price": 10
+  },
+  {
+      "productId": "P012",
+      "name": "Scissors",
+      "stockQuantity": 28,
+      "price": 45
+  },
+  {
+      "productId": "P013",
+      "name": "A4 Paper",
+      "stockQuantity": 150,
+      "price": 2
+  },
+  {
+      "productId": "P014",
+      "name": "200 Page Ruled Notebook",
+      "stockQuantity": 73,
+      "price": 55
+  },
+  {
+      "productId": "P015",
+      "name": "200 Page Unruled Notebook",
+      "stockQuantity": 38,
+      "price": 55
+  }
+]
