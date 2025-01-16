@@ -15,13 +15,6 @@ const columns: GridColDef[] = [
     valueGetter: (value, row) => `$${row.price}`,
   },
   {
-    field: "rating",
-    headerName: "Rating",
-    width: 110,
-    type: "number",
-    valueGetter: (value, row) => (row.rating ? row.rating : "N/A"),
-  },
-  {
     field: "stockQuantity",
     headerName: "Stock Quantity",
     width: 150,

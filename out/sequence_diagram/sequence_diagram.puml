@@ -1,0 +1,32 @@
+@startuml inventory_sequence
+actor Student
+participant "User Interface" as Portal
+participant "Inventory Database" as Inventory
+participant "Admin Dashboard" as Admin
+participant "Shopkeeper Notification System" as Notification
+
+Student -> Portal: Browse available products
+Portal -> Inventory: Fetch product list
+Inventory --> Portal: Return product list
+
+Student -> Portal: Place order
+Portal -> Inventory: Check stock availability
+alt Stock available
+    Inventory -> Portal: Confirm order placement
+    Portal -> Student: Order confirmation
+    Inventory -> Admin: Update stock
+else Stock not available
+    Inventory -> Portal: Notify out-of-stock
+    Portal -> Student: Out-of-stock message
+end
+
+Inventory -> Notification: Low-stock alert (if threshold reached)
+Notification -> Admin: Notify restocking required
+
+Student -> Portal: Check shopkeeper availability
+Portal -> Admin: Fetch shopkeeper status
+Admin --> Portal: Return shopkeeper status
+Portal -> Student: Display shopkeeper availability
+
+Admin -> Admin: Manage stock, orders, and shop status
+@enduml
